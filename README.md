@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align-"center"> Hi there 👋, I'm Vladimir </h1>
 
-<!--
-**PredpolozhimDed/PredpolozhimDed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Project Manager
+#### In my free time I study to become a Backend Developer
 
-Here are some ideas to get you started:
+## Languages and Tools
+Laravel
+PHP
+NodeJS
+JavaScript
+Python
+Django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Follow Me
+[LinkedIn](https://www.linkedin.com/in/vladimir-emelianov-966b212b8/)<br>
+[Telegram](https://t.me/predpolozhim_ded)<br>
+[Instagram](https://instagram.com/predpolozhim.ded)
